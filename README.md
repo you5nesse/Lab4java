@@ -6,3 +6,7 @@
 
 *** Exercice 4 :
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/53eb7178-de16-4e47-b0fe-f6a2b8346850" />
+*** Exercice 5 :
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/0f03db16-0789-4df9-803b-08f41ffdb4a1" />
+*** Exercice 6 :
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/ca8f70dc-c352-4e9e-afa2-cfdc1817a090" />
